@@ -1,6 +1,6 @@
 {
   "name": "ssl-checker",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "ssl-checker",
   "main": "./lib/cmjs/index.js",
   "module": "./lib/cmjs/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dyaa/ssl-checker.git"
+    "url": "git+https://github.com/khantzawhein/ssl-checker.git"
   },
   "keywords": [
     "ssl",
